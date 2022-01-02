@@ -1,0 +1,4117 @@
+{
+    "unitLists": [
+        {
+            "unitName": "인천",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "011",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "1",
+            "openClName": "개방"
+        },
+        {
+            "unitName": "서영암(개)",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "012",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "1",
+            "openClName": "개방"
+        },
+        {
+            "unitName": "순천만",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "013",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "1",
+            "openClName": "개방"
+        },
+        {
+            "unitName": "동부산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "025",
+            "exDivCode": "08",
+            "exDivName": "민자",
+            "openClType": "1",
+            "openClName": "개방"
+        },
+        {
+            "unitName": "가락(개)",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "029",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "1",
+            "openClName": "개방"
+        },
+        {
+            "unitName": "남인천",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "053",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "1",
+            "openClName": "개방"
+        },
+        {
+            "unitName": "일로",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "056",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "1",
+            "openClName": "개방"
+        },
+        {
+            "unitName": "성남",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "061",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "1",
+            "openClName": "개방"
+        },
+        {
+            "unitName": "구리남양주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "062",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "1",
+            "openClName": "개방"
+        },
+        {
+            "unitName": "토평",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "063",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "1",
+            "openClName": "개방"
+        },
+        {
+            "unitName": "청계",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "064",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "1",
+            "openClName": "개방"
+        },
+        {
+            "unitName": "판교",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "065",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "1",
+            "openClName": "개방"
+        },
+        {
+            "unitName": "하남",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "066",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "1",
+            "openClName": "개방"
+        },
+        {
+            "unitName": "시흥",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "067",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "1",
+            "openClName": "개방"
+        },
+        {
+            "unitName": "김포",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "068",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "1",
+            "openClName": "개방"
+        },
+        {
+            "unitName": "대왕판교",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "069",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "1",
+            "openClName": "개방"
+        },
+        {
+            "unitName": "덕소삼패",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "074",
+            "exDivCode": "10",
+            "exDivName": "민자",
+            "openClType": "1",
+            "openClName": "개방"
+        },
+        {
+            "unitName": "대동(개)",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "091",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "1",
+            "openClName": "개방"
+        },
+        {
+            "unitName": "내서",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "092",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "1",
+            "openClName": "개방"
+        },
+        {
+            "unitName": "서울",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "101",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "동수원",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "102",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "수원신갈",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "103",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "지곡",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "104",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "기흥",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "105",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "오산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "106",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "안성",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "107",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "천안",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "108",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "계룡",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "109",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "목천",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "110",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "청주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "111",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "남청주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "112",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "신탄진",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "113",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "남대전",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "114",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "대전",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "115",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "옥천",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "116",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "금강",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "117",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "영동",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "118",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "판암",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "119",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "황간",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "120",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "추풍령",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "121",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "김천",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "122",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "구미",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "123",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "상주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "124",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "남구미",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "125",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "왜관",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "126",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "서대구",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "127",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "금왕꽃동네",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "128",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "북대구",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "129",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "동김천",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "130",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "경산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "131",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "영천",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "132",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "건천",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "133",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "선산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "134",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "경주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "135",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "음성",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "136",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "통도사",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "137",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "양산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "138",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "서울산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "139",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "부산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "140",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "군북",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "142",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "장지",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "143",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "함안",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "144",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "산인",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "145",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "동창원",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "146",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "진례",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "147",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "서김해",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "148",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "동김해",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "149",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "북부산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "150",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "북대전",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "151",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "유성",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "152",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "서대전",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "153",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "안영",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "154",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "논산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "155",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "익산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "156",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "삼례",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "157",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "전주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "158",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "서전주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "159",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "김제",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "160",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "금산사",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "161",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "태인",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "162",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "정읍",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "163",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "무주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "164",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "백양사",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "165",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "장성",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "166",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "광주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "167",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "덕유산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "168",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "장수",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "169",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "서상",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "170",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "마성",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "171",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "용인",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "172",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "양지",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "173",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "춘천",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "174",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "덕평",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "175",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "이천",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "176",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "여주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "177",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "문막",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "178",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "홍천",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "179",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "원주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "180",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "새말",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "181",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "둔내",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "182",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "면온",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "183",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "대관령",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "184",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "평창",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "185",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "속사",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "186",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "진부",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "187",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "서충주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "188",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "강릉",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "189",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "동서울",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "190",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "경기광주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "191",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "곤지암",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "192",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "일죽",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "193",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "서이천",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "194",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "대소",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "195",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "진천",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "196",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "증평",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "197",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "서청주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "198",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "오창",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "199",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "금산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "200",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "칠곡",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "201",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "다부",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "202",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "가산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "203",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "추부",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "204",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "군위",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "205",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "의성",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "206",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "남안동",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "207",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "서안동",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "208",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "예천",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "209",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "영주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "210",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "풍기",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "211",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "북수원",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "212",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "부곡",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "213",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "동군포",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "214",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "군포",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "215",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "횡성",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "216",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "북원주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "217",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "남원주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "218",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "신림",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "219",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "덕평휴게소",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "220",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "생초",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "221",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "산청",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "222",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "단성",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "223",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "함양",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "224",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "서진주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "225",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "금강휴게소",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "226",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "군산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "227",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "동군산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "228",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "북천안",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "229",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "팔공산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "230",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "화원옥포",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "231",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "달성",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "232",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "현풍",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "233",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "서천",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "234",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "창녕",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "235",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "영산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "236",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "남지",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "237",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "칠서",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "238",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "칠원",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "239",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "제천",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "240",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "동고령",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "241",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "고령",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "242",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "해인사",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "243",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "서부산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "244",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "장유",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "245",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "가락",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "246",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "남원",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "247",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "순창",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "248",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "담양",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "249",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "남양산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "250",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "물금",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "251",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "대동",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "252",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "서서울",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "253",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "군자",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "254",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "서안산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "255",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "안산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "256",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "홍성",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "257",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "광천",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "258",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "대천",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "259",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "춘장대",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "260",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "동광주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "261",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "창평",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "262",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "옥과",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "263",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "동남원",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "264",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "곡성",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "265",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "석곡",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "266",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "주암송광사",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "267",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "승주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "268",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "지리산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "269",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "서순천",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "270",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "순천",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "271",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "광양",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "272",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "동광양",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "273",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "가조",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "274",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "옥곡",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "275",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "진월",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "276",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "하동",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "277",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "진교",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "278",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "곤양",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "279",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "거창",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "280",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "매송",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "281",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "비봉",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "282",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "발안",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "283",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "남양양",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "284",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "서평택",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "285",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "통도사휴게소",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "286",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "송악",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "287",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "당진",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "288",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "마산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "289",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "축동",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "290",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "사천",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "291",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "진주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "292",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "문산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "293",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "북창원",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "294",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "진성",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "295",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "지수",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "296",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "동충주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "297",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "서산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "298",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "해미",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "299",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "남여주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "500",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "서김제",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "501",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "부안",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "502",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "줄포",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "503",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "선운산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "504",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "고창",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "505",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "영광",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "506",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "함평",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "507",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "무안",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "508",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "목포",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "509",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "양양",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "510",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "무창포",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "511",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "연화산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "512",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "고성",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "513",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "동고성",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "514",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "북통영",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "515",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "통영",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "516",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "양평",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "517",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "칠곡물류",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "518",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "남대구",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "519",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "평택",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "520",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "단양",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "521",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "북단양",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "522",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "남제천",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "523",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "청통와촌",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "524",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "북영천",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "525",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "서포항",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "526",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "포항",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "527",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "기흥동탄",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "528",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "노포",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "529",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "내장산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "530",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "문의",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "531",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "회인",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "532",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "보은",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "533",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "속리산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "534",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "화서",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "535",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "남상주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "536",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "남김천",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "537",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "성주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "538",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "남성주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "539",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "청북",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "540",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "송탄",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "541",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "서안성",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "542",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "남안성",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "543",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "완주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "544",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "소양",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "545",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "진안",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "546",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "무안공항",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "547",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "북무안",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "548",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "동함평",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "549",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "문평",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "550",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "나주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "551",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "서광산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "552",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "동광산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "553",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "동홍천",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "554",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "북진천",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "555",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "동순천",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "556",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "황전",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "557",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "구례화엄사",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "558",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "서남원",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "559",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "감곡",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "560",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "북충주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "561",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "충주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "562",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "괴산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "563",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "연풍",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "564",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "문경새재",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "565",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "점촌함창",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "566",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "남고창",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "567",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "장성물류",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "568",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "북광주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "569",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "북상주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "570",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "면천",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "571",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "고덕",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "572",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "예산수덕사",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "573",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "신양",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "574",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "유구",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "575",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "마곡사",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "576",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "공주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "577",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "서세종",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "578",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "남세종",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "579",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "북강릉",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "580",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "옥계",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "581",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "망상",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "582",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "동해",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "583",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "남강릉",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "584",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "하조대",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "585",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "북남원",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "586",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "오수",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "587",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "임실",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "588",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "상관",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "589",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "동전주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "590",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "동서천",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "591",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "서부여",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "592",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "부여",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "593",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "청양",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "594",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "서공주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "595",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "가락2",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "596",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "서여주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "597",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "북여주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "598",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "양촌",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "599",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "남천안",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "601",
+            "exDivCode": "01",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "풍세상",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "602",
+            "exDivCode": "01",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "정안",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "603",
+            "exDivCode": "01",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "남공주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "604",
+            "exDivCode": "01",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "탄천",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "605",
+            "exDivCode": "01",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "서논산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "606",
+            "exDivCode": "01",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "연무",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "607",
+            "exDivCode": "01",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "남논산하",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "608",
+            "exDivCode": "01",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "풍세하",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "612",
+            "exDivCode": "01",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "남풍세",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "613",
+            "exDivCode": "01",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "남논산상",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "618",
+            "exDivCode": "01",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "동대구",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "621",
+            "exDivCode": "02",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "대구",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "622",
+            "exDivCode": "02",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "수성",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "623",
+            "exDivCode": "02",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "청도",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "624",
+            "exDivCode": "02",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "밀양",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "625",
+            "exDivCode": "02",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "남밀양",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "626",
+            "exDivCode": "02",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "삼랑진",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "627",
+            "exDivCode": "02",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "상동",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "628",
+            "exDivCode": "02",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "김해부산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "629",
+            "exDivCode": "02",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "울산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "641",
+            "exDivCode": "08",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "문수",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "642",
+            "exDivCode": "08",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "청량",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "643",
+            "exDivCode": "08",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "온양",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "644",
+            "exDivCode": "08",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "장안",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "645",
+            "exDivCode": "08",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "기장일광",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "646",
+            "exDivCode": "08",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "해운대송정",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "647",
+            "exDivCode": "08",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "해운대",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "648",
+            "exDivCode": "08",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "남양주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "651",
+            "exDivCode": "10",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "화도",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "652",
+            "exDivCode": "10",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "서종",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "653",
+            "exDivCode": "10",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "설악",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "654",
+            "exDivCode": "10",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "강촌",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "655",
+            "exDivCode": "10",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "남춘천",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "656",
+            "exDivCode": "10",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "동산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "657",
+            "exDivCode": "10",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "조양",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "658",
+            "exDivCode": "10",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "봉담",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "671",
+            "exDivCode": "11",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "정남",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "672",
+            "exDivCode": "11",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "북오산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "673",
+            "exDivCode": "11",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "서오산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "675",
+            "exDivCode": "11",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "향남",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "676",
+            "exDivCode": "11",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "북평택",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "677",
+            "exDivCode": "11",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "조암",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "682",
+            "exDivCode": "18",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "송산마도",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "683",
+            "exDivCode": "18",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "남안산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "684",
+            "exDivCode": "18",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "서시흥",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "685",
+            "exDivCode": "18",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "북양양",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "701",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "속초",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "702",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "삼척",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "703",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "근덕",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "704",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "남이천",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "705",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "남경주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "706",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "남포항",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "707",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "동경주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "708",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "동상주",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "712",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "서의성",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "713",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "북의성",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "714",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "동안동",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "715",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "청송",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "716",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "활천",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "722",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "임고",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "725",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "신둔",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "729",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "유천",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "730",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "북현풍",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "731",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "행담도",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "732",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "옥산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "733",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "동둔내",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "734",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "남양평",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "735",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "삼성",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "736",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "평택고덕",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "741",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "기장일광입구",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "746",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "범서",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "747",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "동청송영양",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "748",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "영덕",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "749",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "기장동JC",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "750",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "기장일광(KEC)",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "751",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "기장철마",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "752",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "금정",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "753",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "김해가야휴게소",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "754",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "진영휴게소",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "758",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "기장서JC",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "760",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "중앙탑",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "762",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "내촌",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "765",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "인제",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "766",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "구병산",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "767",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "서양양",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "768",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "양감",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "876",
+            "exDivCode": "11",
+            "exDivName": "민자",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "서영암",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "981",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "강진무위사",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "982",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "장흥",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "983",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "보성",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "984",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "벌교",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "985",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "고흥",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "986",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        },
+        {
+            "unitName": "남순천",
+            "pageNo": null,
+            "numOfRows": null,
+            "unitCode": "987",
+            "exDivCode": "00",
+            "exDivName": "도공",
+            "openClType": "0",
+            "openClName": "폐쇄"
+        }
+
+    ],
+    "message": "인증키가 유효합니다.",
+    "code": "SUCCESS"
+}
