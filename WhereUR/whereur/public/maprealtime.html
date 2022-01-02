@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+<title>실시간 교통정보</title>
+<style type="text/css">
+	* {
+		font-family:Arial, Verdana, sans-serif, Dotum, Gulim;
+	}
+	html, body { width:100%; height:100%; }
+	body { margin:0; padding:0; }
+</style>
+</head>
+<body>
+	<form method="get" action="/process/maprealtime"></form>
+	<div id="map" style="width:100%; height:100%;"></div>
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="http://openapi.its.go.kr/javascript/jquery.xml2json.js"></script>
+<script type="text/javascript" src="http://openlayers.org/api/2.13.1/OpenLayers.js"></script>
+<script type="text/javascript" src="http://openapi.its.go.kr/javascript/OpenLayers.Layer.Vworld.js"></script>
+<script type="text/javascript">
+
+	var API_DOMAIN = 'http://openapi.its.go.kr';
+	var key = 'Your Key';
+	var NOPOP_LAYERS = [];
+	var POPUP_LAYERS = [];
+	var EPSG_4326 = new OpenLayers.Projection('EPSG:4326');
+	var EPSG_900913 =  new OpenLayers.Projection('EPSG:900913');
+</script>
+<script type="text/javascript" src="http://openapi.its.go.kr/javascript/openapi.ntic.js"></script>
+<script type="text/javascript">
+	window.onload = init;
+	var map;
+	function init() {
+		// 지도 생성
+		map = new OpenLayers.Map({
+			div: "map",
+			projection: EPSG_900913,
+			displayProjection: EPSG_4326,
+			units: "m",
+			maxExtent: new OpenLayers.Bounds(13489539, 3828608, 14943678, 4881604),
+			restrictedExtent: new OpenLayers.Bounds(13489539, 3828608, 14943678, 4881604),
+			layers: [
+				new OpenLayers.Layer.Vworld_Base('Vworld', {numZoomLevels:17, transitionEffect:''})
+			],
+			controls: [
+				new OpenLayers.Control.Navigation()
+				,new OpenLayers.Control.MousePosition()
+				,new OpenLayers.Control.ScaleLine()
+				,new OpenLayers.Control.PanZoomBar({zoomWorldIcon:true})
+				,new OpenLayers.Control.LayerSwitcher()
+				,new OpenLayers.Control.OverviewMap({layers:[new OpenLayers.Layer.OSM()], mapOptions:{projection:'EPSG:900913'}, autoPan:true, maximized:true})
+			]
+		});
+		// 지도 레벨 제한
+		map.events.on({
+			"zoomend": function(event) {
+				if (map.getZoom() < 7) map.setCenter(map.getCenter(), 7);
+				if (map.getZoom() > 14) map.setCenter(map.getCenter(), 14);
+			}
+		});
+		// 지도 초기 위치 설정
+		map.setCenter(new OpenLayers.LonLat(14217832, 4353272), 7);
+		// 교통정보 시작
+		var ntic = new Ntic('nticLayer');
+		NOPOP_LAYERS.push(ntic.getLayer());
+		// 교통정보 종료
+		map.addLayers(NOPOP_LAYERS);
+		map.addLayers(POPUP_LAYERS);
+	}
+</script>
+</body>
+</html>
